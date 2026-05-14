@@ -31,7 +31,7 @@ I love tinkering with home automation, security, Docker and networking. My curre
 
 ### 📂 Current Projects
 
-- 🏠 **Homelab Docke** - My main repository for all things Docker and self-hosting.
+- 🏠 **Homelab Docker** - My main repository for all things Docker and self-hosting.
 - 🛡️ **Nettacker Integration** - Automating vulnerability scanning for my local network.
 - 🌐 **Netbird & Pangolin** - Secure networking and gateway setups.
 
