@@ -14,7 +14,7 @@ I love tinkering with home automation, security, Docker and networking. My curre
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,linux,bash,yaml,nginx,githubactions,python,git&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=docker,linux,bash,yaml,aws,git,github,arch,cloudflare,gcp,obsidian,postgres,ubuntu,vercel,vscode,vscodium&theme=dark" />
   </a>
 </p>
 
@@ -31,7 +31,7 @@ I love tinkering with home automation, security, Docker and networking. My curre
 
 ### 📂 Current Projects
 
-- 🏠 **[Homelab Docker](https://github.com/BrentJMaxwell/docker)** - My main repository for all things Docker and self-hosting.
+- 🏠 **Homelab Docke** - My main repository for all things Docker and self-hosting.
 - 🛡️ **Nettacker Integration** - Automating vulnerability scanning for my local network.
 - 🌐 **Netbird & Pangolin** - Secure networking and gateway setups.
 
@@ -40,7 +40,7 @@ I love tinkering with home automation, security, Docker and networking. My curre
 ### 📫 Let's Connect!
 
 <p align="center">
-  <a href="https://github.com/BrentJMaxwell"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://brentmaxwell.com">brentmaxwell.com</a>
 </p>
 
 </div>
