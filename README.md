@@ -14,7 +14,7 @@ I love tinkering with home automation, security, Docker and networking. My curre
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,linux,bash,yaml,aws,git,github,arch,cloudflare,gcp,obsidian,postgres,ubuntu,vercel,vscode,vscodium&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=docker,linux,bash,aws,git,github,arch,cloudflare,gcp,obsidian,postgres,ubuntu,vercel,vscode,vscodium&theme=dark" />
   </a>
 </p>
 
